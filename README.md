@@ -6,6 +6,8 @@ After that, I did the following:
 - Frequency analysis of tags
 - Using Riveter, a Python tool, to run linguistic and sentiment analyses on the corpus
 
+__ATTENTION: LOAD AND TRAIN ONE MODEL AT A TIME AND RUN ITS ASSOCIATED CALCULATIONS AND VISUALIZATIONS - SAVE THE RESULTS BEFORE TRAINING THE NEXT MODEL__
+
 ## Contents:
 1. This README.md file
 2. __myriv-test.ipynb__ - the demo notebook available in the riveter directory with added explanations of every function and parameter
