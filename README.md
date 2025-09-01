@@ -8,8 +8,9 @@ After that, I did the following:
 
 ## Contents:
 1. This README.md file
-2. __personal_tumblr_archive.ipynb__ - A Jupyter notebook to compile, explore, and analyse your personal tumblr blog.
-3. __thg_fandom_corpus_analysis.ipynb__ - A Jupyter notebook to build an expansive corpus and preprocess it to conduct a similar analysis or adapt for your own purposes.
+2. __myriv-test.ipynb__ - the demo notebook available in the riveter directory with added explanations of every function and parameter
+3. __personal_tumblr_archive.ipynb__ - A Jupyter notebook to compile, explore, and analyse your personal tumblr blog.
+4. __thg_fandom_corpus_analysis.ipynb__ - A Jupyter notebook to build an expansive corpus and preprocess it to conduct a similar analysis or adapt for your own purposes.
    
 ## How to Use this Repository
 Steps:
@@ -17,5 +18,6 @@ Steps:
 2. Follow the instructions at <a href = 'https://github.com/maartensap/riveter-nlp'>this link</a> to install and set up your Jupyter notebook for Riveter.
 3. Download and run __personal_tumblr_archive.ipynb__ 
 4. Download and run __thg_fandom_corpus_analysis.ipynb__ and run to compile a corpus to conduct tag frequency analysis, and computational linguistic and sentiment analysis using Riveter.
+5. Consult the demo or myriv-test notebook to decide and test different scores, sentiments, etc. to analyse corpus
 
 __NOTE for troubleshooting Riveter:__ Move all files into the directory .../riveter-nlp/riveter if Jupyter is having difficulty importing or installing a module.
